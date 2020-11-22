@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bundle</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_alarm">Alarm Button</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_metrics">Metrics</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_option">Options</string>
+    <string name="menu_text_description">Hype technology demonstration application.</string>
+    <string name="menu_email">contact@hypelabs.io</string>
+    <string name="btn_help">SOS</string>
+    <string name="toggle_off">Send Alert</string>
+    <string name="toggle_on">Stop Alert</string>
+    <string name="not_found"><i>NOT FOUND</i></string>
+    <string name="my_nick_in_chat">My user:</string>
+    <string name="text_destinatary_nick">Destinatary:</string>
+    <string name="list_instance_online">List of instances online</string>
+    <string name="num_contacts_online">Online:</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

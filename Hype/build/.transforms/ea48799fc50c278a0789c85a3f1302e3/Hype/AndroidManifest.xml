@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hypelabs.hype"
+    android:versionCode="44"
+    android:versionName="0.9.2138" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <application>
+        <service
+            android:name="com.hypelabs.hype.HypeService"
+            android:enabled="true"
+            android:label="@string/app_name" />
+
+        <receiver
+            android:name="com.hypelabs.hype.drivers.WFCommons.WFIStateListenerImpl"
+            android:label="WFIStateListenerImpl" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.hypelabs.hype.drivers.BluetoothCommons.BluetoothStateListenerImpl"
+            android:label="BluetoothMonitor" >
+            <intent-filter>
+                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

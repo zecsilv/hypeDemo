@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/9abf2a42f086b1b0ab1f0c07e18001b757337601/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d10068d557bfef2e995e60ef07e4d65c259fb53e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/09a23ae2427f50776d7e2d8b709b1b5c31b401be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_cf95350bbc116a670e03f5c6779a467bac752c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/9abf2a42f086b1b0ab1f0c07e18001b757337601/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_d10068d557bfef2e995e60ef07e4d65c259fb53e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/c7260cb65acdd2aace4e8b45aaa5b53be726decd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_c0e6d1cbef07375526a05284d8746c1e6a320107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/df32bef39ddb7577e46cd16151cc9138cce1680d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_e4877221b7aa441f6118e6bdc73addd12043e34f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/df32bef39ddb7577e46cd16151cc9138cce1680d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4877221b7aa441f6118e6bdc73addd12043e34f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/c7260cb65acdd2aace4e8b45aaa5b53be726decd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0e6d1cbef07375526a05284d8746c1e6a320107/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/32f7355580ed192c8a3e29a209f5d4fd31c58323/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_f70abdf9f82635793a3f6be2f232582c01d76b15.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/32f7355580ed192c8a3e29a209f5d4fd31c58323/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f70abdf9f82635793a3f6be2f232582c01d76b15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/de4b5acb7ccd33f61eb51d789ffb03ef816cc45a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee61a1fcc15d01c42c8a4ee26c25094079ddf6f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/09a23ae2427f50776d7e2d8b709b1b5c31b401be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf95350bbc116a670e03f5c6779a467bac752c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/de4b5acb7ccd33f61eb51d789ffb03ef816cc45a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_ee61a1fcc15d01c42c8a4ee26c25094079ddf6f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/b424b2083c783def0e53fd1d6f3b60d42be2abaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3223a0c40d15af97c2209a20a2f6f17869d7e316">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_c13b7cd18dd97d31a892e727702b44d4c8d4a14b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/01053f366283aa9d1ed84ea72828ad2572ce76e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_8aad9afafd2585ccafd84e9b6571393f9d7b87a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/01053f366283aa9d1ed84ea72828ad2572ce76e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8aad9afafd2585ccafd84e9b6571393f9d7b87a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/10672944cbd0c0db8487207e19a830f524919b38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_70556a51b6add9ecab83244916480e31846d3701.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/10672944cbd0c0db8487207e19a830f524919b38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70556a51b6add9ecab83244916480e31846d3701/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0d8f103502046a2e40f9d909e745319203f191bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/021af3687b1c73b170d78321bf9d52f89abe4c6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_e051d0001e9dcb4aa0bae2f72e78b01f6f77b541.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/021af3687b1c73b170d78321bf9d52f89abe4c6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e051d0001e9dcb4aa0bae2f72e78b01f6f77b541/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/1bdb738bbd439f75d400f117bf10ce38ee1eda04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3568009f2f035151b3200a98258deea790c648f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/1bdb738bbd439f75d400f117bf10ce38ee1eda04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_e3568009f2f035151b3200a98258deea790c648f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/4fbea7fc04f1ddf51755044da74434c00a082cb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0867466ae34a277d911fd28decfcee796f035c37/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/b2ad9429855fb2c7c63f26f5d7afdf7e675175cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_039b983a189c7c0493f3ee39c5a5c0e3e508d84a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b126bd4826d6251f6e8e073caa73f164e19b6ea">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85e1f94c6b5a87f987cc1f8cbfe35df183e19dcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/b2ad9429855fb2c7c63f26f5d7afdf7e675175cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_039b983a189c7c0493f3ee39c5a5c0e3e508d84a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/K_A_S_T_O_R/.android/build-cache/4fbea7fc04f1ddf51755044da74434c00a082cb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/K_A_S_T_O_R/Desktop/ISEP1617/Estagio/Project/app/build/intermediates/pre-dexed/debug/classes_0867466ae34a277d911fd28decfcee796f035c37.jar" />
+    </item>
+
+</items>
