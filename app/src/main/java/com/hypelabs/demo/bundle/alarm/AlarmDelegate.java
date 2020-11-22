@@ -1,3 +1,4 @@
+
 /*
  * Copyright 2017 Hype Labs
  *
@@ -19,3 +20,5 @@ import org.json.JSONObject;
 public interface AlarmDelegate {
     void onChangeState(AlarmFragment alarmFragment, JSONObject json);
 }
+
+
